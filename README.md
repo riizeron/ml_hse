@@ -60,9 +60,9 @@
 |13-17 sep|2.EDA and Scikit-learn| [Notebook](week02/02_HSE_SE_EDA_v1.ipynb) ||
 |20-24 sep|3.Calculus background: Matrix-Vec differention and GD|[Notebook](week03/03_HSE_SE_GD.ipynb); [Matrix-vector differentiation](week03/sem03-vector-diff.pdf) |[The Matrix Cookbook](http://www.math.uwaterloo.ca/~hwolkowi//matrixcookbook.pdf)|
 |27-1 oct|4.Linear Regression| [Notebook](week04/04_HSE_SE_Linear_regression_v3.ipynb) ||
-|4-8 oct|5.Classification metrics|  ||
-|11-15 oct|6.TBA|  ||
-|18-22 oct|7.Decision Trees|  ||
+|4-8 oct|5.Classification metrics| [Notebook](week05/05_HSE_PE_Classification_v2.ipynb)  ||
+|11-15 oct|6.NLP & SVM|[Notebook](week06/06_HSE_SE_intro_to_NLP_SVM.ipynb)  |[NLP For You - great online course](https://lena-voita.github.io/nlp_course.html#main_page_content)|
+|18-22 oct|7.Decision Trees|[Notebook](week07/07_HSE_SE_DT.ipynb)  |[Guide2DT](https://odsc.medium.com/the-complete-guide-to-decision-trees-part-1-aa68b34f476d)|
 |1-5 nov|8.Ensembles|  | |
 |8-12 nov|9.Gradient Boosting |   |  |
 |15-19 nov|10.Anomaly detection and Clustering |  |  |
